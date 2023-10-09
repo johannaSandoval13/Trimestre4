@@ -6,6 +6,8 @@ $miInformacion = array(
 );
 
 
-
+foreach ($miInformacion as $i => $j){
+    echo $i . ":" . $j . "<br>";
+}
 
 ?>
