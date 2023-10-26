@@ -33,7 +33,7 @@ return $subtotal;
 
 public function vaciarCarro() { 
 $this->productos = array(); 
-}
+}}
 
 
 $p1 = new Producto("Camisa", 20000);
